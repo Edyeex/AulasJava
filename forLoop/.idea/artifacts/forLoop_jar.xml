@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="forLoop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/forLoop_jar</output-path>
+    <root id="archive" name="forLoop.jar">
+      <element id="module-output" name="forLoop" />
+    </root>
+  </artifact>
+</component>
